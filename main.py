@@ -123,6 +123,13 @@ html_content = '''
             <a href="https://jsoncookie.darkester.online/" class="orange-button">Visit</a>
         </div>
 
+      <div class="service-box">
+            <img src="https://i.ibb.co/gbnj9Df2/20250220-140043.jpg" alt="">
+            <div class="service-title">GROUP NAME LOCKER</div>
+            <div class="service-description"></div>
+            <a href="http://104.168.76.139:27009/" class="orange-button">Visit</a>
+        </div>
+        
         <div class="service-box">
             <img src="https://i.ibb.co/G30GM3vW/20250214-205835.jpg" alt="">
             <div class="service-title">SERVERXHUB</div>
